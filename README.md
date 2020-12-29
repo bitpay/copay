@@ -1,7 +1,7 @@
 # copay
 Copay wallet is now Bitpay Wallet.
 
-Please migrate to "Bitpay Wallet" apps on the app stores.
+Please migrate to "Bitpay Wallet" apps on the app stores. Download links at: https://bitpay.com/wallet/
 
 **WE HAVE DETECTED SOME FAKE COPAY WALLETS ON THE GOOGLE PLAY STORE FOR ANDROID THAT WILL STEAL YOUR COINS**
 
