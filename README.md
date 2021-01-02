@@ -1,5 +1,5 @@
 # copay
-Copay wallet is now Bitpay Wallet.
+Copay wallet is now Bitpay Wallet. Repo at https://bitpay.com/bitpay/wallet
 
 Please migrate to "Bitpay Wallet" apps on the app stores. Download links at: https://bitpay.com/wallet/
 
@@ -11,4 +11,3 @@ Please migrate to "Bitpay Wallet" apps on the app stores. Download links at: htt
 
 
 
- This repo has been moved to https://github.com/bitpay/wallet
